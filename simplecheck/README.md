@@ -158,5 +158,4 @@ Google Drive에 저장된 백업은 별도로 삭제하지 않으면 유지될 �
 - We store checklist titles, completion records, and app settings **locally** on your device. We do not operate a backend server for this data.
 - **Optional Google Sign-In / Backup**: If you choose backup, checklist data is stored in your Google Drive App Data folder (`simple_check_backup.json`). Scope: `drive.appdata` only.
 - **Ads (Google AdMob)**: Non‑premium users may see banner ads; Google may collect advertising identifiers and related data per [Google's policies](https://policies.google.com/privacy).
-- **In‑app purchases**: Handled by Google Play / App Store; we do not collect payment card details.
 - We do **not** sell personal data. Contact: *(sonagiya@gmail.com)*.
