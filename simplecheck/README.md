@@ -61,11 +61,6 @@
 - [Google AdMob 및 Google 광고 개인정보처리방침](https://policies.google.com/technologies/ads)
 - 광고 제거 구매 후에는 배너 광고가 표시되지 않습니다.
 
-### 2.5 인앱 결제 (선택)
-
-광고 제거 등 유료 기능 구매 시, 결제 정보는 **Google Play** 또는 **Apple App Store**가 처리합니다.  
-앱은 결제 영수증·구매 상태를 기기에 저장하여 광고 표시 여부 등을 판단할 수 있으며, **카드 번호 등 결제 수단 정보는 앱이 직접 수집하지 않습니다**.
-
 ---
 
 ## 3. 정보의 이용 목적
@@ -151,13 +146,13 @@ Google Drive에 저장된 백업은 별도로 삭제하지 않으면 유지될 �
 |------|------|
 | **운영자** | *sonagiya* |
 | **이메일** | *sonagiya@gmail.com* |
-| **앱** | 간단 체크! (`com.sona.simplecheck`) |
+| **앱** | 간단 체크! (`com.ssona.simplecheck`) |
 
 ---
 
 ## English Summary (Privacy Policy)
 
-**App**: Simple Check (`com.sona.simplecheck`)  
+**App**: Simple Check (`com.ssona.simplecheck`)  
 **Effective**: June 2, 2026
 
 - Core checklist features work **offline** on your device.
